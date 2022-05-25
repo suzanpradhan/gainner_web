@@ -401,10 +401,10 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/maskable_icon_x192.png": "c71b600f7c7ff9640aefc095e03cd3a5",
 "icons/maskable_icon_x512.png": "e46922521ea9088e4a3449a26d1c4d27",
-"index.html": "0973aa8f7ccc3529bb94c420274cc02c",
-"/": "0973aa8f7ccc3529bb94c420274cc02c",
+"index.html": "bba9795d6293636dbe51a9e20475dd88",
+"/": "bba9795d6293636dbe51a9e20475dd88",
 "logo_colored.png": "71112e1df1fa5f4f73860ace04526e2a",
-"main.dart.js": "321068463d7d89ec231b6dcf01703db6",
+"main.dart.js": "90f9bc7f644787c759ad2532aad13923",
 "manifest.json": "d518b72e0f535546f8f4314ac5a9c612",
 "spinner-gainner.gif": "41b53770511b930a1629dea071e0548f",
 "version.json": "4cf1c588c1fbd71522808c4aef5f8dc5"

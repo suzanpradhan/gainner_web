@@ -35372,7 +35372,7 @@ yD(a){return A.b4(new A.r7("Paste is not implemented for this browser."),null,t.
 A.fL.prototype={
 gBz(a){var s=this.a
 s=s==null?null:J.bhp(s)
-return s==null?"https://unpkg.com/canvaskit-wasm@0.33.0/bin/":s},
+return s==null?"./canvaskit/":s},
 gBA(a){var s=this.a
 s=s==null?null:J.bhq(s)
 return s==null?!1:s},

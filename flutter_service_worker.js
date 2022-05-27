@@ -386,10 +386,10 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/maskable_icon_x192.png": "c71b600f7c7ff9640aefc095e03cd3a5",
 "icons/maskable_icon_x512.png": "e46922521ea9088e4a3449a26d1c4d27",
-"index.html": "f3834fe173e1424c8d431c7824d25347",
-"/": "f3834fe173e1424c8d431c7824d25347",
+"index.html": "3d444d68d6d95eb283d09c815090311e",
+"/": "3d444d68d6d95eb283d09c815090311e",
 "logo_colored.png": "71112e1df1fa5f4f73860ace04526e2a",
-"main.dart.js": "15b13aedbdb0f3cec1a8132595796ec7",
+"main.dart.js": "7ead3da6d65de7d1a2a2a692357aa51d",
 "manifest.json": "9bfd5201aaa0dba7a12980e4f215ab6b",
 "spinner-gainner.gif": "41b53770511b930a1629dea071e0548f",
 "version.json": "4cf1c588c1fbd71522808c4aef5f8dc5"

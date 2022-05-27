@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a961e2f64042bb357f811d71caf06ad8",
+  "assets/AssetManifest.json": "3859cc6774542927e6294749867a3869",
 "assets/assets/fonts/FF-Mark-Pro.otf": "12d6724a254d3be629fc6b2871ae5a6a",
 "assets/assets/fonts/Gilroy-Bold.ttf": "b381c2abd2972024a6a7e3d882208d9b",
 "assets/assets/fonts/Gilroy-Light.ttf": "4b236c6cb4c59d66b80dde6f9c614ebd",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/assets/icons/paypal.png": "342f45b39f4f96dc8c277e1a6eeae33d",
 "assets/assets/icons/winner_icon_left.png": "03e0d90314f23d6efe59d256f019563a",
 "assets/assets/icons/winner_icon_right.png": "ec8b5701440c3d38a314da9d105b2044",
+"assets/assets/images/authenticantion_background.png": "6ac8d6f3614de77e2aaa22060da29107",
 "assets/assets/images/banner1.jpg": "8028ff744dd373330fcbc4ce525f68d8",
 "assets/assets/images/company_image.jfif": "5af3950d65327ef07ff151c2b0d98bdf",
 "assets/assets/images/coupon.png": "5bacd7ece534684127faabc1c58e458e",
@@ -386,8 +387,8 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/maskable_icon_x192.png": "c71b600f7c7ff9640aefc095e03cd3a5",
 "icons/maskable_icon_x512.png": "e46922521ea9088e4a3449a26d1c4d27",
-"index.html": "b92b29247a45b629c0ad64a22813c437",
-"/": "b92b29247a45b629c0ad64a22813c437",
+"index.html": "1777cee678399c4f9185470b5bdbe63e",
+"/": "1777cee678399c4f9185470b5bdbe63e",
 "logo_colored.png": "71112e1df1fa5f4f73860ace04526e2a",
 "main.dart.js": "14c1b6614b26a974c79ad7e820d5e3f7",
 "manifest.json": "9bfd5201aaa0dba7a12980e4f215ab6b",

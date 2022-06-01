@@ -92538,7 +92538,7 @@ j=B.op.co("AeJc5Ebh8eBG9t6Y8iW_vMBukb7vBoofuGy7fl6KktNhoaH4k_Ta8cy0GbQ9iA_HM-Y29
 j=B.c.cM(B.vI.gho().co(j))
 m=new A.V7(new A.Ht(A.bm(t.Gf)),"Basic "+j)
 s=7
-return A.C(m.rk("POST",A.bf("https://api.sandbox.paypal.com/v1/oauth2/token?grant_type=client_credentials",0,null),null,null,null),$async$yb)
+return A.C(m.rk("POST",A.bf("https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials",0,null),null,null,null),$async$yb)
 case 7:l=b
 if(l.b===200){j=l
 k=B.L.bZ(0,A.bR(J.H(A.bQ(j.e).c.a,"charset")).aU(0,j.w),null)
@@ -92567,7 +92567,7 @@ var $async$BC=A.B(function(a1,a2){if(a1===1){o=a2
 s=p}while(true)switch(s){case 0:p=4
 e=t.N
 s=7
-return A.C(A.lU(A.bf("https://api.sandbox.paypal.com/v1/payments/payment",0,null),B.L.BW(a,null),A.Q(["content-type","application/json","Authorization",B.c.W("Bearer ",a0)],e,e)),$async$BC)
+return A.C(A.lU(A.bf("https://api-m.paypal.com/v1/payments/payment",0,null),B.L.BW(a,null),A.Q(["content-type","application/json","Authorization",B.c.W("Bearer ",a0)],e,e)),$async$BC)
 case 7:m=a2
 $.fA().eS(0,"logger",t.JW).f3(B.d3,B.h.j(m.b),"createPaypalPayment",null)
 d=m

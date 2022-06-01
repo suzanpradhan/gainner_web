@@ -92513,7 +92513,7 @@ o=a.x.e
 s=B.f.j(o*b.length)
 r=B.f.j(o*b.length)
 o=t.N
-return A.Q(["intent","sale","payer",A.Q(["payment_method","paypal"],o,o),"transactions",A.a([A.Q(["amount",A.Q(["total",s,"currency",p.h(0,"currency"),"details",A.Q(["subtotal",r,"shipping","0","shipping_discount",B.h.j(0)],o,o)],o,q),"custom",c,"description","The payment transaction description.","payment_options",A.Q(["allowed_payment_method","INSTANT_FUNDING_SOURCE"],o,o),"item_list",A.Q(["items",n],o,t.j)],o,t.K)],t.Mq),"note_to_payer","Contact us for any questions on your order.","redirect_urls",A.Q(["return_url","https://gainnerdemo.web.app/payment","cancel_url","cancel.example.com"],o,o)],o,q)}}
+return A.Q(["intent","sale","payer",A.Q(["payment_method","paypal"],o,o),"transactions",A.a([A.Q(["amount",A.Q(["total",s,"currency",p.h(0,"currency"),"details",A.Q(["subtotal",r,"shipping","0","shipping_discount",B.h.j(0)],o,o)],o,q),"custom",c,"description","The payment transaction description.","payment_options",A.Q(["allowed_payment_method","INSTANT_FUNDING_SOURCE"],o,o),"item_list",A.Q(["items",n],o,t.j)],o,t.K)],t.Mq),"note_to_payer","Contact us for any questions on your order.","redirect_urls",A.Q(["return_url","https://gainner.org/payment","cancel_url","cancel.example.com"],o,o)],o,q)}}
 A.ah3.prototype={
 $1(a){return A.ct(J.aq(a),null)},
 $S:724}

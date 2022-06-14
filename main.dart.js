@@ -94786,29 +94786,31 @@ if(o==null)o=""
 s=t.p
 return A.o(r,A.ar(A.a([A.az(A.a([p,B.eC,A.bs(A.ar(A.a([n,B.jl,A.G(o,r,r,r,r,r,A.q(b).R8.z,r,r)],s),B.A,B.m,B.j,B.r),1)],s),B.A,r,B.m,B.j,r,r)],s),B.o,B.m,B.j,B.r),B.e,r,r,new A.a5(B.Z,r,r,q,r,r,B.n),r,r,r,B.BK,B.he,r,r,r)}}
 A.a3q.prototype={
-C(a,b){var s,r,q,p,o,n,m=null,l=t.l,k=b.t(l).f.a.a>800?20:10,j=A.ap(14),i=b.t(l).f.a.a>750?20:10,h=A.G("Settings",m,m,m,m,m,A.q(b).R8.c.rX(B.x,B.ai),m,m),g=A.bn(m,24,m)
-l=b.t(l).f.a.a>750?20:10
+C(a,b){var s,r,q,p,o,n,m,l=null,k=t.l,j=b.t(k).f.a.a>800?20:10,i=A.ap(14),h=b.t(k).f.a.a>750?20:10,g=A.G("Settings",l,l,l,l,l,A.q(b).R8.c.rX(B.x,B.ai),l,l),f=A.bn(l,24,l)
+k=b.t(k).f.a.a>750?20:10
 s=A.ap(6)
 r=A.ap(6)
 q=this.c
 p=q.w
 if(p==null||p==="")p=B.f9
 else{p.toString
-p=new A.ea("https://portal.gainner.org/"+p,1,m)}r=A.o(m,m,B.e,m,m,new A.a5(m,A.i3(B.aS,p,m),m,r,m,m,B.n),m,80,m,m,m,m,m,80)
+p=new A.ea("https://portal.gainner.org/"+p,1,l)}r=A.o(l,l,B.e,l,l,new A.a5(l,A.i3(B.aS,p,l),l,r,l,l,B.n),l,80,l,l,l,l,l,80)
 p=q.b
 if(p==null)p=""
 o=q.c
 if(o==null)o=""
 n=q.d
 if(n==null)n=""
-n=A.G(p+" "+o+" "+n,m,m,m,m,m,A.q(b).R8.b.kk(16),m,m)
+n=A.G(p+" "+o+" "+n,l,l,l,l,l,A.q(b).R8.b.kk(16),l,l)
 o=q.e
 o.toString
-o=A.G(o,m,m,m,m,m,A.q(b).R8.z.hn(B.co,12),m,m)
+o=A.G(o,l,l,l,l,l,A.q(b).R8.z.hn(B.co,12),l,l)
+p=q.f
+p.toString
 q=q.r
 q.toString
-p=t.p
-return A.o(m,new A.at(new A.U(i,10,i,10),A.ar(A.a([h,g,A.o(m,A.az(A.a([r,B.Mv,A.ar(A.a([n,B.aSv,o,A.G(q,m,m,m,m,m,A.q(b).R8.z.hn(B.co,12),m,m)],p),B.A,B.m,B.j,B.r)],p),B.o,m,B.m,B.j,m,m),B.e,m,m,new A.a5(B.k,m,m,s,B.auh,m,B.n),m,m,m,m,new A.U(l,10,l,10),m,m,m),B.lZ,A.cn(!1,m,!0,A.az(A.a([B.ap0,B.eC,A.G("Notifications",m,m,m,m,m,A.q(b).R8.y.aF(B.x),m,m)],p),B.o,m,B.m,B.j,m,m),m,!0,m,m,m,m,m,m,m,m,m,new A.aBj(b),m,m,m,m),B.b_,A.cn(!1,m,!0,A.az(A.a([B.aoW,B.eC,A.G("Edit Profile",m,m,m,m,m,A.q(b).R8.y.aF(B.x),m,m)],p),B.o,m,B.m,B.j,m,m),m,!0,m,m,m,m,m,m,m,m,m,new A.aBk(this,b),m,m,m,m),B.b_,A.cn(!1,m,!0,A.az(A.a([B.aoX,B.eC,A.G("Terms and Conditions",m,m,m,m,m,A.q(b).R8.y.aF(B.x),m,m)],p),B.o,m,B.m,B.j,m,m),m,!0,m,m,m,m,m,m,m,m,m,new A.aBl(b),m,m,m,m),B.b_,A.bP(m,m,new A.aBm(),t._P,t.gA)],p),B.A,B.m,B.j,B.r),m),B.e,m,m,new A.a5(B.k,m,m,j,m,m,B.n),m,m,m,m,new A.U(k,20,k,20),m,m,m)}}
+m=t.p
+return A.o(l,new A.at(new A.U(h,10,h,10),A.ar(A.a([g,f,A.o(l,A.az(A.a([r,B.Mv,A.ar(A.a([n,B.aSv,o,A.G(p+q,l,l,l,l,l,A.q(b).R8.z.hn(B.co,12),l,l)],m),B.A,B.m,B.j,B.r)],m),B.o,l,B.m,B.j,l,l),B.e,l,l,new A.a5(B.k,l,l,s,B.auh,l,B.n),l,l,l,l,new A.U(k,10,k,10),l,l,l),B.lZ,A.cn(!1,l,!0,A.az(A.a([B.ap0,B.eC,A.G("Notifications",l,l,l,l,l,A.q(b).R8.y.aF(B.x),l,l)],m),B.o,l,B.m,B.j,l,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aBj(b),l,l,l,l),B.b_,A.cn(!1,l,!0,A.az(A.a([B.aoW,B.eC,A.G("Edit Profile",l,l,l,l,l,A.q(b).R8.y.aF(B.x),l,l)],m),B.o,l,B.m,B.j,l,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aBk(this,b),l,l,l,l),B.b_,A.cn(!1,l,!0,A.az(A.a([B.aoX,B.eC,A.G("Terms and Conditions",l,l,l,l,l,A.q(b).R8.y.aF(B.x),l,l)],m),B.o,l,B.m,B.j,l,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aBl(b),l,l,l,l),B.b_,A.bP(l,l,new A.aBm(),t._P,t.gA)],m),B.A,B.m,B.j,B.r),l),B.e,l,l,new A.a5(B.k,l,l,i,l,l,B.n),l,l,l,l,new A.U(j,20,j,20),l,l,l)}}
 A.aBj.prototype={
 $0(){A.aS(this.a).c0("/notification")},
 $S:0}
